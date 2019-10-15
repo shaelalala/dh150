@@ -1,8 +1,8 @@
 # DH150
 
 
-## Class Assignments
+### Class Assignments
 
-### HW1 Heuristic Evaluation
+HW1 Heuristic Evaluation
 
 
