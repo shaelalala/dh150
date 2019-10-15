@@ -13,8 +13,8 @@ App/Website: [23andMe](https://you.23andme.com/)
 
 Screenshots: 
   <br>
-  !(https://shaelalala.github.io/dh150/app1.PNG)
+  !(/app1.PNG)
   <br>
-  !(https://shaelalala.github.io/dh150/app2.PNG)
+  !(/app2.PNG)
   
   
