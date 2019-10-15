@@ -3,7 +3,7 @@
 
 ### Class Assignments
 
-:one: Heuristic Evaluation
+<p> :one: Heuristic Evaluation </p>
 
 App/Website: [23andMe](https://you.23andme.com/) 
 <br>
