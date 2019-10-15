@@ -1,5 +1,4 @@
 # DH150
-UX Design and more
 
 
 ## Class Assignments
