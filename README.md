@@ -1,10 +1,9 @@
-# shaespace
+# DH150
 UX Design and more
 
 
-## DH150
+## Class Assignments
 
-### Class Assignments
+### HW1 Heuristic Evaluation
 
 
-https://shaelalala.github.io/shaespace/23andme%20screen.png
