@@ -1,4 +1,5 @@
-###Purpose of UT: 
+### Purpose of UT: 
+
   Based on the findings of the heuristic evaluation, the usability test was designed to find out whether the user 
 would find the information presented on the 23andMe app too complicated to understand and navigate through. Three 
 scenarios were designed around the main functions built into the app: presenting ancestry reports, presenting health 
@@ -13,7 +14,7 @@ Video: Google Drive
 
 
 
-Pilot Test Reflection: 
+#### Pilot Test Reflection: 
 
 Although after the heuristic evaluation I was concerned about whether the information was too complex for an average user
 to read, the tasks I designed in the Usability Test perhaps did not offer a lot of time for the user to process the large
