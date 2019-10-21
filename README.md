@@ -13,9 +13,9 @@ App/Website: [23andMe](https://you.23andme.com/)
 
 Screenshots: 
   <br>
-  ![1](https://shaelalala.github.com/dh150/app1.PNG)
+  ![1](https://shaelalala.github.io/dh150/app1.PNG)
   <br>
-  ![2](https://shaelalala.github.com/dh150/app2.PNG)
+  ![2](https://shaelalala.github.io/dh150/app2.PNG)
   
   
 HW2 *Usability Testing*
