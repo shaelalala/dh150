@@ -18,11 +18,11 @@ scenario could be found under the same heading/menu page in the app. During the 
 user could go at his or her own pace to explore the functions available in the app. 
 
 
+
 Questionnaire & Moderator Script: [Link](https://qtrial2019q4az1.az1.qualtrics.com/jfe/form/SV_5bCwemEMIsyap0x)
 
 Video: [Google Drive](https://drive.google.com/open?id=1ozjBhphCPh_gZbcO2QIj6Mv2YAVQjM5M)
 
-</br>
 
 ##### Pilot Test Reflection: 
 
