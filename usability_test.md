@@ -1,4 +1,7 @@
-### Introduction/Purpose of UT: 
+*Usability Test (Pilot)*
+
+
+#### Introduction/Purpose of UT: 
 
   23andMe is a biotechnology company offering personalized scientific reports about users' ancestry and health based on their DNA. The 23andMe app is a tool providing easy access to the reports and offers a variety of information regarding the 
 results of the DNA analysis. 
@@ -20,7 +23,7 @@ Video: [Google Drive](https://drive.google.com/open?id=1ozjBhphCPh_gZbcO2QIj6Mv2
 
 </br>
 
-#### Pilot Test Reflection: 
+##### Pilot Test Reflection: 
 
 Although after the heuristic evaluation I was concerned about whether the information was too complex for an average user
 to read, the tasks I designed in the Usability Test perhaps did not offer a lot of time for the user to process the large
