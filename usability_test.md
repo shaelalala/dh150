@@ -5,10 +5,10 @@
 
   23andMe is a biotechnology company offering personalized scientific reports about users' ancestry and health based on their DNA. The 23andMe app is a tool providing easy access to the reports and offers a variety of information regarding the 
 results of the DNA analysis. 
-  </br> </br>
+  
   The user experience designer conducted a usability test using a registered 23andMe account on the moderator's mobile phone.
   A laptop recorded the participant's facial reactions and comments, as well as the answers to the questionnaire. The moderator was present to ask questions, guide the participant to answer the questionnaire, and take notes. The participant's navigational choices, task completion, comments, and feedback to the questionnaire was recorded. 
-  </br> </br>
+
   Based on the findings of the heuristic evaluation, the usability test was designed to find out whether the user 
 would find the information presented on the 23andMe app too complicated to understand and navigate through. Three 
 scenarios were designed around the main functions built into the app: accessing ancestry reports, accessing health 
@@ -18,7 +18,7 @@ scenario could be found under the same heading/menu page in the app. During the 
 user could go at his or her own pace to explore the functions available in the app. 
 
 Questionnaire & Moderator Script: [Link](https://qtrial2019q4az1.az1.qualtrics.com/jfe/form/SV_5bCwemEMIsyap0x)
-</br>
+
 Video: [Google Drive](https://drive.google.com/open?id=1ozjBhphCPh_gZbcO2QIj6Mv2YAVQjM5M)
 
 </br>
