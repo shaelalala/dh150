@@ -26,7 +26,8 @@ Video: [Google Drive](https://drive.google.com/open?id=1ozjBhphCPh_gZbcO2QIj6Mv2
 
 ##### Pilot Test Reflection: 
 
-Although after the heuristic evaluation I was concerned about whether the information was too complex for an average user
+There was a technical issue with the screen recording and it was lost, unfortunately. Another issue was that, although 
+after the heuristic evaluation I was concerned about whether the information was too complex for an average user
 to read, the tasks I designed in the Usability Test perhaps did not offer a lot of time for the user to process the large
 amount of information offered in the reports. Or perhaps I assumed users would want to read all of the information, but 
 instead the participant was not that interested in the details of the information. In a focus group interview, I would try 
@@ -34,4 +35,5 @@ to find more participants that fit the target users of 23andMe, and ask them mor
 of info in the reports they are most interested in, and what functions they use the most, etc. 
 
 
+[Back](
 
