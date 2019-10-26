@@ -10,9 +10,7 @@ PDF: [Link](https://shaelalala.github.io/dh150/Shae%20Heuristic%20Evaluation.pdf
 
 
 Screenshots: 
-  <br>
   ![1](https://shaelalala.github.io/dh150/app1.PNG)
 
-  <br>
   ![2](https://shaelalala.github.io/dh150/app2.PNG)
 
