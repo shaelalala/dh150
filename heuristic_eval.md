@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="images.css">
+<link rel="stylesheet" href="https://shaelalala.github.io/dh150/images.css">
 
 ### *Heuristic Evaluation*
 
