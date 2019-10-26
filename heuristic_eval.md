@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="images.css">
+
 ### *Heuristic Evaluation*
 
 App: [23andMe](https://you.23andme.com/) 
