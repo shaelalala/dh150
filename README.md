@@ -12,3 +12,6 @@ HW2 *Usability Testing*
 
 Project: [Page](usability_test.md)
 
+HW3 *Quantitative Analysis*
+
+Project: [Page](quant_analysis.md)
