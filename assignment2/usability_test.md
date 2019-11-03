@@ -35,5 +35,5 @@ to find more participants that fit the target users of 23andMe, and ask them mor
 of info in the reports they are most interested in, and what functions they use the most, etc. 
 
 
-[Back](README.md)
+[Back](../README.md)
 
