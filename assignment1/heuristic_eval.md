@@ -11,7 +11,7 @@ PDF: [Link](https://shaelalala.github.io/dh150/Shae%20Heuristic%20Evaluation.pdf
 [Back](../README.md)
 
 
-Screenshots: 
+Screenshots: <br>
   ![1](../app1-copy.png)
 
   ![2](../app2-copy.png)
